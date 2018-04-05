@@ -28,6 +28,3 @@ def subseq(S,d):
         print("There is no such subsequence")
 ask()
 subseq(S,d)
-
-
-
